@@ -1,30 +1,43 @@
-# LeetCode Journey
+# 🚀 LeetCode Journey
+
+<div align="center">
+
+# 👨‍💻 Sunny Raj
+
+### Solving LeetCode one problem at a time.
+
+Learning • Building • Improving
+
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
+![Problems](https://img.shields.io/badge/Problems_Solved-2-success?style=for-the-badge)
+![Repository](https://img.shields.io/badge/LeetCode-Journey-orange?style=for-the-badge)
+
+</div>
+
 ---
 
-##  About This Repository
+# 📖 About
 
 Welcome to my **LeetCode Journey**!
 
-This repository contains my solutions to LeetCode problems as I improve my **Data Structures & Algorithms (DSA)** skills and prepare for **Software Engineering interviews**.
+This repository contains my C++ solutions to LeetCode problems as I strengthen my **Data Structures & Algorithms** skills and prepare for **Software Engineering interviews**.
 
-I aim to solve problems consistently, write clean and efficient code, and learn the optimal approaches.
+I focus on writing clean, efficient, and well-structured solutions while continuously improving my problem-solving ability.
 
 ---
 
-#  Progress
+# 📊 Progress
 
 | Difficulty | Solved |
-|------------|-------:|
-|  Easy | 2 |
-|  Medium | 0 |
-|  Hard | 0 |
+|------------|--------:|
+| 🟢 Easy | 2 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
 | **Total** | **2** |
-
-> Update these numbers whenever you solve new problems.
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```
 Leetcode-Journey
@@ -39,68 +52,81 @@ Leetcode-Journey
 
 ---
 
-#  Solved Problems
+# ✅ Solved Problems
 
-##  Easy
+## 🟢 Easy
 
 | # | Problem | Solution |
 |---:|---------|----------|
-| 53 | Maximum Subarray | [53_Maximum_Subarray.cpp](Easy/53_Maximum_Subarray.cpp) |
-| 136 | Single Number | [136_Single_Number.cpp](Easy/136_Single_Number.cpp) |
+| 53 | Maximum Subarray | [Code](Easy/53_Maximum_Subarray.cpp) |
+| 136 | Single Number | [Code](Easy/136_Single_Number.cpp) |
 
 ---
 
-##  Medium
+## 🟡 Medium
 
 _No problems solved yet._
 
 ---
 
-##  Hard
+## 🔴 Hard
 
 _No problems solved yet._
 
 ---
 
-#  Goals
+# 🎯 Learning Goals
 
--  Solve LeetCode consistently
--  Strengthen DSA fundamentals
--  Master problem-solving techniques
--  Solve 300+ LeetCode problems
--  Prepare for coding interviews
+- Solve 300+ LeetCode problems
+- Master Data Structures & Algorithms
+- Improve coding interview skills
+- Learn optimal algorithms and data structures
+- Write clean and readable C++ code
 
 ---
 
-#  Language
+# 📚 Topics To Cover
+
+- ✅ Arrays
+- ⏳ Strings
+- ⏳ Hashing
+- ⏳ Two Pointers
+- ⏳ Binary Search
+- ⏳ Linked List
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Trees
+- ⏳ Binary Search Tree
+- ⏳ Heap
+- ⏳ Graph
+- ⏳ Dynamic Programming
+- ⏳ Greedy
+- ⏳ Backtracking
+
+---
+
+# 💻 Programming Language
 
 - C++
 
 ---
 
-#  Daily Challenge
+# 📅 Daily Goal
 
-> Solve **at least one LeetCode problem every day.**
-
----
-
-#  Future Plans
-
-- Arrays
-- Strings
-- Hashing
-- Binary Search
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Backtracking
+> Solve at least **one LeetCode problem every day.**
 
 ---
 
-## ⭐ Support
+# ⭐ Repository Status
 
-If you find this repository helpful, feel free to ⭐ star the repository.
+🚀 This repository is actively maintained and updated regularly.
+
+If you find it useful, consider giving it a ⭐.
+
+---
+
+<div align="center">
+
+## Happy Coding! 🚀
+
+</div>
